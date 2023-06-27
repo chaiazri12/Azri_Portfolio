@@ -18,7 +18,7 @@ Data Star : Data Analyst Apprenticeship
 ## Project 
 ### Capstone Project - Telecom Churn Data
 
-**Code:** ['capstone_github.ipynb']()     
+**Code:** ['capstone_github.ipynb'](https://github.com/chaiazri12/Azri_Portfolio/blob/409fbd1a2bc8f1ee2d0e355924269defff7776bc/Capstone_Github.ipynb)     
 **Description:** The final project for 2 months Data Analysis course. Perform exploratory data analysis on a dataset about customer purchasing history and determined potential future customer   
 **Skills:** data cleaning, data analysis, exploratory data analysis, descriptive statistics, data visualization, feature engineering.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SQL   

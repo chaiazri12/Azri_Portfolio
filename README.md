@@ -1,7 +1,7 @@
 # Azri Azhad - Data Analysis Portfolio
 
 ## About 
-Hi ! I"m Azri ! I hold a Bachelor of Science in Petroleum Chemistry from Universiti Putra Malaysia. I recently just got myself a certificate as Data Analyst 
+Hi ! I'm Azri ! I hold a Bachelor of Science in Petroleum Chemistry from Universiti Putra Malaysia. I recently just got myself a certificate as Data Analyst 
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics
 
@@ -20,6 +20,11 @@ Data Star : Data Analyst Apprenticeship
 
 **Code:** ['capstone_github.ipynb'](https://github.com/chaiazri12/Azri_Portfolio/blob/409fbd1a2bc8f1ee2d0e355924269defff7776bc/Capstone_Github.ipynb)     
 **Description:** The final project for 2 months Data Analysis course. Perform exploratory data analysis on a dataset about customer purchasing history and determined potential future customer   
-**Skills:** data cleaning, data analysis, exploratory data analysis, descriptive statistics, data visualization, feature engineering.  
+**Skills:** Data Cleaning, Data Analysis, Exploratory Data Analysis, Descriptive Statistics, Data Visualization, Feature Engineering.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SQL   
-**Results:** Review of the global and regional video games markets, data-based business recommendations.   
+**Results:** Review on the purchasing history data and suggest recommendation on which customer that should focus on for their next marketing campaign    
+
+## Certificate
+- [Data Star : Data Analyst](https://drive.google.com/file/d/1BAVKUYFLTJ82sxaX-4dWQ_LuSe9YCiS4/view?usp=drive_link)
+- [Intermediate SQL for Data Scientist](https://drive.google.com/file/d/1mLFHLbaYh0eO64bSaAGO7NBYFfR3DSGW/view?usp=drive_link)
+- [Python](https://drive.google.com/file/d/17SITAPXCVeaK1lMJjvGIbS5wWAH4s1eP/view?usp=drive_link)

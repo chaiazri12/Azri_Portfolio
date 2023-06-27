@@ -15,6 +15,11 @@ Data Star : Data Analyst Apprenticeship
 -  Performed data exploratory analysis on telecom churn dataset, including data cleaning and SQL analysis, 
   to identify key factors influencing churn and recommend strategies for reducing churn rate
 
-### Capstone Project 
-- Telecom Churn Data
-   - 
+## Project 
+### Capstone Project - Telecom Churn Data
+
+**Code:** ['capstone_github.ipynb']()     
+**Description:** The final project for 2 months Data Analysis course. Perform exploratory data analysis on a dataset about customer purchasing history and determined potential future customer   
+**Skills:** data cleaning, data analysis, exploratory data analysis, descriptive statistics, data visualization, feature engineering.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SQL   
+**Results:** Review of the global and regional video games markets, data-based business recommendations.   

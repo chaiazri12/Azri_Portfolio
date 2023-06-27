@@ -1,7 +1,9 @@
-# Data Analyst 
+# Azri Azhad - Data Analysis Portfolio
 
-### Education 
-Bachelor of Science in Petroleum Chemistry. UPM
+## About 
+Hi ! I"m Azri ! I hold a Bachelor of Science in Petroleum Chemistry from Universiti Putra Malaysia. I recently just got myself a certificate as Data Analyst 
+
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics
 
 ### Data Analyst Experience
 Data Star : Data Analyst Apprenticeship 

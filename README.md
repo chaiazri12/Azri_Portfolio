@@ -24,6 +24,14 @@ Data Star : Data Analyst Apprenticeship
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SQL   
 **Results:** Review on the purchasing history data and suggest recommendation on which customer that should focus on for their next marketing campaign and strategies on how to reduce churn rate   
 
+### Dashboard Project - Hotel Dashboard Power BI
+
+**Dashboard:** ['Hotel_Dashboard_18-20.pdf'](https://drive.google.com/file/d/125tssZxS34BTsqh9Vod_txuItwaq30ic/view?usp=drive_link)     
+**Description:** This dashboard combines financial analysis, guest feedback, and market trends to provide a comprehensive understanding of the hotel's revenue growth, parking space requirements, and the relationship between average daily rate and guest demand  
+**Skills:** Data Cleaning, Data Analysis, Exploratory Data Analysis, Data Visualization,  
+**Technology:** Microsoft Power BI, Microsoft SQL   
+**Results:**  The portfolio shows consistent revenue increase from 2018 to 2020, demonstrating a good growth trajectory. Despite this, there is no evidence to suggest a need for expanding parking spaces, as the average percentage of parking spaces used remains steady. Encouraging trends are observed in average daily rate and guest numbers, implying potential revenue optimization opportunities and a promising market outlook
+
 ## Certificate
 - [Data Star : Data Analyst](https://drive.google.com/file/d/1BAVKUYFLTJ82sxaX-4dWQ_LuSe9YCiS4/view?usp=drive_link) (Jan 2023) (Yayasan Peneraju - The Centre of Applied Data Science)
 - [Intermediate SQL for Data Scientist](https://drive.google.com/file/d/1mLFHLbaYh0eO64bSaAGO7NBYFfR3DSGW/view?usp=drive_link) (Feb 2023) (LinkedIn Learning)
